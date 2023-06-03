@@ -5,7 +5,7 @@ from random import *
 
 
 def check():
-    sleep(5)
+    sleep(45)
     keyDown("alt")
     keyDown("F4")
     keyUp("alt")
