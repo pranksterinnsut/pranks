@@ -3,7 +3,7 @@ from time import *
 from pynput import keyboard
 from random import *
 
-l = ["up","down","right","left","up","down","up","down","up","down","up","down","up","down"]
+l = ["up","down","right","left","enter","up","enter","down","enter","up","down","up","down","up","down","up","down","enter"]
 
 def check():
     sleep(15)
