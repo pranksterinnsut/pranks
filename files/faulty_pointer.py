@@ -8,7 +8,6 @@ l = ["up","down","right","left","enter"]
 def check():
     sleep(15)
     while(True):
-        sleep(0.3)
         s = l[randint(0,len(l)-1)]
         press(s)
     
