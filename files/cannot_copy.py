@@ -1,6 +1,6 @@
 from pyperclip import *
 
-s = "go fuck yoourself"
+s = "go fuck yourself"
 
 while(True):
     copy(s)
